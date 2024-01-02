@@ -22,7 +22,7 @@ I'm a passionate learner with a keen interest in coding and web development. Cur
 
 I'm always excited to connect with fellow learners and developers. Feel free to reach out to me on:
 
-- [LinkedIn] = ([My LinkedIn Profile](https://www.linkedin.com/in/dheeraj-joshi-98b202284/))
+- LinkedIn = ([My LinkedIn Profile](https://www.linkedin.com/in/dheeraj-joshi-98b202284/))
 
 Let's learn and grow together in the fascinating world of coding and development!
 
