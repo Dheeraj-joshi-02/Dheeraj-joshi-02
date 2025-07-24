@@ -8,6 +8,7 @@
 </div>
 
 ---
+
 ## *🚀 About Me*
 ```javascript
 const dheeraj = {
@@ -56,23 +57,19 @@ const dheeraj = {
 
 </div>
 
----
+--
 
-## *📊 GitHub Statistics*
+## 📊 GitHub Statistics
 
-<div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-joshi-02&theme=tokyonight" alt="GitHub Streak" />
+<div style="display: flex; gap: 10px;">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj-joshi-02&show_icons=true&locale=en&layout=compact" alt="dheeraj-joshi-02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-joshi-02&show_icons=true&locale=en" alt="dheeraj-joshi-02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-joshi-02&" alt="dheeraj-joshi-02" /></p>
+
 </div>
-
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-joshi-02&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</div>
-
-<div >
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dheeraj-joshi-02&theme=tokyo-night&hide_border=true&color=2196F3&line=2196F3&point=FFFFFF&area=true&area_color=2196F3" alt="Contribution Graph" />
-</div>
-
------
 
 ## *🏆 GitHub Trophies*
 
