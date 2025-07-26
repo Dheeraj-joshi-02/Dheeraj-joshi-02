@@ -10,24 +10,26 @@
 ---
 
 ## *🚀 About Me*
-```javascript
+```js
+// About Me
 const dheeraj = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    role: "Aspiring Full-Stack Developer",
-    currentFocus: ["TypeScript", "DevOps", "AWS", "System Design"],
-    hobbies: ["Coding", "Learning New Tech", "Open Source"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+  pronouns: "He/Him",
+  location: "Delhi, India",
+  role: "Aspiring Frontend Developer",
+  currentFocus: ["TypeScript", "Node.js", "Express", "MongoDB", "System Design"],
+  hobbies: ["Coding", "Learning New Tech"],
+  funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
+
 ```
 
-- *🎯 **Passionate** about building scalable web applications*
-- *💡 **Love** exploring cutting-edge technologies and frameworks*
-- *🌱 **Currently learning**: TypeScript, DevOps, AWS Cloud Services*
-- *👯 **Looking to collaborate** on exciting open-source projects*
-- *💬 **Ask me about**: JavaScript, React, Node.js, Python*
-- *📫 **Reach me at**: dheeraj.joshi@example.com*
-- *⚡ **Fun fact**: I can code for hours with just coffee and good music! ☕🎵*
+- *🎯 **I’m learning to build websites and web apps***
+- *💡 **Curious about new tools** like React, JavaScript, and more*
+- *🌱 **Currently learning**: TypeScript, DevOps, and AWS (cloud stuff)*
+- *👯 **Open to learning together** or joining beginner-friendly projects*
+- *💬 **You can ask me about**: HTML, CSS, JavaScript basics, React*
+- *📫 **Contact me at**: dheeraj.joshi@example.com*
+- *⚡ **Fun fact**: I enjoy coding with coffee and music! ☕🎵*
 
 -----
 
@@ -58,42 +60,52 @@ const dheeraj = {
 </div>
 
 --
-
-## 📊 GitHub Statistics
-
-<div style="display: flex; gap: 10px;">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj-joshi-02&show_icons=true&locale=en&layout=compact" alt="dheeraj-joshi-02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-joshi-02&show_icons=true&locale=en" alt="dheeraj-joshi-02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-joshi-02&" alt="dheeraj-joshi-02" /></p>
-
-</div>
-
-## *🏆 GitHub Trophies*
-
 <div align="center">
+
+  ## 📊 GitHub Stats
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj-joshi-02&show_icons=true&locale=en&layout=compact" width="300"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=dheeraj-joshi-02&show_icons=true&locale=en" width="300"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-joshi-02" width="630"/>
+      </td>
+    </tr>
+  </table>
+
+  ---
+
+  ## 🏆 GitHub Trophies
+
   <img src="https://github-profile-trophy.vercel.app/?username=dheeraj-joshi-02&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
----
+  ---
 
-## *🤝 Connect with Me*
+  ## 🤝 Connect with Me
 
-<div align="center">
+  <a href="https://www.linkedin.com/in/dheeraj-joshi-02/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dheeraj.joshi@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/dheeraj_joshi_02">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-joshi-02/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheeraj.joshi@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dheeraj_joshi_02)
+  ---
 
-</div>
-
------
-
-<div align="center">
   <h3><em>💖 Thanks for visiting my profile!</em></h3>
   <p><em>Feel free to reach out if you want to collaborate on something awesome! 🚀</em></p>
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+
 </div>
+
