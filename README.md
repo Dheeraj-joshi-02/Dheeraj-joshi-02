@@ -62,7 +62,7 @@ const dheeraj = {
 --
 <div align="center">
 
-  ## 📊 GitHub Stats
+  ## *📊 GitHub Stats*
 
   <table>
     <tr>
@@ -82,13 +82,13 @@ const dheeraj = {
 
   ---
 
-  ## 🏆 GitHub Trophies
+  ## 🏆 *GitHub Trophies*
 
   <img src="https://github-profile-trophy.vercel.app/?username=dheeraj-joshi-02&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
   ---
 
-  ## 🤝 Connect with Me
+  ## *🤝 Connect with Me*
 
   <a href="https://www.linkedin.com/in/dheeraj-joshi-02/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
